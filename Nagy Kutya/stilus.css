@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    background-color: #4556B5;
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+}
+
+h2 {
+    border-bottom: #a2a9b1 1px solid;
+}
+
+.csillagok {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+
+
+
+
+
+
